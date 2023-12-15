@@ -1,0 +1,11 @@
+fastapi
+#serveur apache pour tourner l'app fast api
+uvicorn
+
+#Librairies dediée à la gestion des paramètres entre la requete et le code
+pydantic
+
+#Requete sql
+sqlalchemy
+
+mysqlclient
